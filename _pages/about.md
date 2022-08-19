@@ -10,7 +10,6 @@ redirect_from:
 ---
 
 I am currently an Assistant Professor in Colledge of Civil and Transportation Engineerig at Shenzhen University. I am working in the Institute of Urban Smart Transportation & Safety Maintenance, and leaded by Academician of Chinese Academy of Engineering Yanliang Du. I received my Ph.D degree in Transportation Engineering from Southeast University advised by Prof. Bin Ran.  
-
 The intelligent sensing of human, vehicle, infrastrcture, and enviroment and effective data mining are fundamentals of the intelligent transportation system (ITS). It is necessary to apply advanced sensors and develop new models to improve the safety, intelligence, and resilience of the system. Towards this goal, I work on crowdsourcing solution and signal processing for ITS and developing new algorithms based on machine learning, tensor decomposition, and optimization for temporal and spatial data. My research papers have been cited more than 900 times on Google Scholar and the research findings fortunately received several awards. 
 
 
@@ -24,7 +23,7 @@ The intelligent sensing of human, vehicle, infrastrcture, and enviroment and eff
     </tr>
   </thead>
 </table>
-* <span style="color:darkred"> New! </span> Sept. 2021. I'm honoured to receive <span style="color:darkred">IEEE ITSS Best Dissertation Award</span> (First Prize). 
+* <span style="color:darkred"> Sept. 2021 </span> 🎉🎉. I'm honoured to receive <span style="color:darkred">IEEE ITSS Best Dissertation Award</span> (First Prize). 
 * <span style="color:darkred"> New! </span> Apr. 2021. I'm honoured to receive the title of <span style="color:darkred">UW Data Science Postdoctoral Fellow</span> from the eScience Institue, UW. 
 * <span style="color:darkred"> New! </span> Mar. 2021. Gradudation! I defend my PhD final exam and graduate!
 * <span style="color:darkred"> New! </span> Oct. 2020. Our paper receives the <span style="color:darkred">Best Paper Award</span> presented by  IEEE International Smart Cities Conference 2020. 
