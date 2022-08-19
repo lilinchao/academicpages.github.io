@@ -52,5 +52,15 @@ The intelligent sensing of human, vehicle, infrastrcture, and enviroment and eff
 * 2009.09-2013.06, B.S. in Transportation Engineering, Hebei University of Engineering, Handan, Hebei.  
 
 
-
-
+## 🎖 Honors and Awards
+<table style="width:100%">
+  <thead>
+    <tr>
+      <th width="100%">&nbsp;</th>
+    </tr>
+  </thead>
+</table>
+* 2021, Temporal and Spatial Big Data Driven Traffic State Identification and Active Control of Highway Network, Speical Prize, China Highway and Transportation Society.  
+* 2021, Research and Application of Technology on Mountainous City Lifeline Disaster Monitoring, Early Warning and Prevention, Silver Medal of National Postdoctoral Innovation and Entrepreneurship Competition, Ministry of Human Resources and Social Security.
+* 2021, The Relation Between Working Conditions, Aberrant Driving Behaviour and Crash Propensity Among Taxi Drivers in China, The First Prize of Shaanxi University Humanities and Social Science Research Outstanding Achievement Award, Education Department of Shaanxi Province
+* 2020, Shenzhen Overseas High Level Talent, C Type, Shenzhen.
