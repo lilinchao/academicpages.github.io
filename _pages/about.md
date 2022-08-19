@@ -34,7 +34,7 @@ The intelligent sensing of human, vehicle, infrastrcture, and enviroment and eff
     </tr>
   </thead>
 </table>
-*2019.08 - Now, Doctor of Philosophy, Robotics and Autonomous Systems, Nanyang Technological University, Singapore
-*2016.09 - 2019.06, Master by Research, Mechanical Engineering, Beijing Institute of Technology, Beijing, China
-*2012.09 - 2016.06, Bachelor of Engineering, Vehicle Engineering, Beijing Institute of Technology, Beijing, China
+* 2019.08 - Now, Doctor of Philosophy, Robotics and Autonomous Systems, Nanyang Technological University, Singapore
+* 2016.09 - 2019.06, Master by Research, Mechanical Engineering, Beijing Institute of Technology, Beijing, China
+* 2012.09 - 2016.06, Bachelor of Engineering, Vehicle Engineering, Beijing Institute of Technology, Beijing, China
 
