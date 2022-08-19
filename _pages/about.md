@@ -34,8 +34,11 @@ The intelligent sensing of human, vehicle, infrastrcture, and enviroment and eff
     </tr>
   </thead>
 </table>
-* 2015.09-2019.06, Ph.D in Transportation Engineering, School of Transportation, Southeast University, Nanjing, China.
-* 2017.09-2018.09, Visiting Scholar, Department of Civil and Environment Engineering, University of Wisconsin-Madison, Madison, USA.
-* 2013.09-2015.06, M.S. in Transportation Engineering, School of Highway, Chang'an University, Xi'an, Shannxi.
-* 2009.09-2013.06, B.S. in Transportation Engineering, Colledge of Civil Engineering, Hebei University of Engineering, Handan, Hebei.
+* 2017.09-2018.09, Visiting Scholar, University of Wisconsin-Madison, Madison, USA.  
+* 2015.09-2019.06, Ph.D in Transportation Engineering, Southeast University, Nanjing, China.  
+* 2013.09-2015.06, M.S. in Transportation Engineering, Chang'an University, Xi'an, Shannxi.  
+* 2009.09-2013.06, B.S. in Transportation Engineering, Hebei University of Engineering, Handan, Hebei.  
+
+
+
 
