@@ -14,7 +14,7 @@ The intelligent sensing of human, vehicle, infrastrcture, and enviroment and eff
 
 ## 👦 For Prospective Students/Postdocs
 * I am looking for one motivated Postdoc in 1) Urban computing, 2) Intelligent transportation systems, 3) Temporal and spatial data modeling. Please send me an email with your CV, a brief research statement (one page or less) and transcripts.
-* I am looking for master students for Fall'23 in the following areas: 1) Urban computing, 2) Intelligent transportation systems, 3) Temporal and spatial data modeling. If you are interested, welcome to take a look and <a href = "mailto: lilinchao@szu.edu.cn">contact me</a>.
+* I am looking for master students for Fall'23 who are excited about sensing and computing for intelligent transportation system. If you are interested, welcome to take a look and <a href = "mailto: lilinchao@szu.edu.cn">contact me</a>.
 
 
 ## 📰 News 
