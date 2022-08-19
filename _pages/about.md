@@ -26,6 +26,18 @@ The intelligent sensing of human, vehicle, infrastrcture, and enviroment and eff
 </table>
 * <span style="color:darkred"> AUG. 2022 </span> 🔥. Our paper <a href = "https://ieeexplore.ieee.org/document/9860093">“DeepVIP: Deep Learning-Based Vehicle Indoor Positioning Using Smartphones”</a> is accepted by IEEE Transactions on Vehicular Technology. 
 
+
+## 👷 Working Experience
+<table style="width:100%">
+  <thead>
+    <tr>
+      <th width="100%">&nbsp;</th>
+    </tr>
+  </thead>
+</table>
+* 2019.10-now, Assistant Professor, Shenzhen University, Shenzhen, China.  
+
+
 ## 📖 Educations
 <table style="width:100%">
   <thead>
