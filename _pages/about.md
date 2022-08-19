@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "About me"
 excerpt: "About me"
 author_profile: true
 layout: archive
@@ -27,5 +26,8 @@ The intelligent sensing of human, vehicle, infrastrcture, and enviroment and eff
 </table>
 * <span style="color:darkred"> AUG. 2022 </span> 🔥. Our paper <a href = "https://ieeexplore.ieee.org/document/9860093">“DeepVIP: Deep Learning-Based Vehicle Indoor Positioning Using Smartphones”</a> is accepted by IEEE Transactions on Vehicular Technology. 
 
-
+## 📖 Educations
+*2019.08 - Now, Doctor of Philosophy, Robotics and Autonomous Systems, Nanyang Technological University, Singapore
+*2016.09 - 2019.06, Master by Research, Mechanical Engineering, Beijing Institute of Technology, Beijing, China
+*2012.09 - 2016.06, Bachelor of Engineering, Vehicle Engineering, Beijing Institute of Technology, Beijing, China
 
