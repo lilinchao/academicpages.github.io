@@ -9,9 +9,9 @@ redirect_from:
   - /about.html
 ---
 
-<font size=3 face=Arial>
+<font size=3 face=Georgia>
 I am currently an Assistant Professor in Colledge of Civil and Transportation Engineerig at Shenzhen University. I am working in the Institute of Urban Smart Transportation & Safety Maintenance, and leaded by Academician of Chinese Academy of Engineering Yanliang Du. I received my Ph.D degree in Transportation Engineering from Southeast University advised by Prof. Bin Ran. <br> 
-I am interested in the intersection between machine learning and transportation. 
+The intelligent sensing of human, vehicle, infrastrcture, and enviroment and effective data mining are fundamentals of the intelligent transportation system. 
 </font>
 
 ## News 
