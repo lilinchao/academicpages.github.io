@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Journal Publications"
 permalink: "/publications/"
 author_profile: true
 ---
@@ -35,3 +35,7 @@ author_profile: true
       [<a href="https://arxiv.org/abs/2207.06959">Preprint</a>][<a href="https://github.com/Kaimaoge/STPN">Data & Python code</a>] </p>
   </li>
 </ul>
+
+# Conference Publications
+
+
