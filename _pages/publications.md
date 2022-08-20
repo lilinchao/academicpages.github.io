@@ -33,8 +33,6 @@ author_profile: true
       <em>IEEE Sensors Journal</em>, 2022, Early Access.<br>
       <b>Li, Linchao</b> and Yi, Junnan and Xu, Fei and Liu, Hanlin<br>      
   </li>
-  
-  
 </ol>
 
 
