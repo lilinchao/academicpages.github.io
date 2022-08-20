@@ -35,17 +35,6 @@ author_profile: true
   </li>
 </ol>
 
-
-
-
-<h2>2021</h2>
-  <li>
-    <p><a href="https://journals.sagepub.com/doi/abs/10.1177/14759217221094499">Heterogeneous structural responses recovery based on multi-modal deep learning</a> <br>
-      <em>Structural Health Monitoring</em>Early Access.<br>
-      Du, Bowen and Wu, Liyu and Sun, Leilei and Xu, Fei and <b>Li, Linchao</b><br>      
-  </li>
-
-
 # Conference Publications
 
 
