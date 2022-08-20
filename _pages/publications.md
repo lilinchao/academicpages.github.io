@@ -29,7 +29,7 @@ author_profile: true
   <li>
     <p><a href="https://ieeexplore.ieee.org/abstract/document/9762328/">A temporal and spatial denoising method for intelligent settlement sensing system</a> <br>
       <em>IEEE Sensors Journal</em>, 2022, Early Access.<br>
-      <b>Li, Linchao</b> and Yi, Junnan and Xu, Fei and Liu, Hanlin<br>      
+      <b>Li, Linchao</b> and Yi, Junnan and Xu, Fei and Liu, Hanlin      
 </ol>  
 
 # Conference Publications
