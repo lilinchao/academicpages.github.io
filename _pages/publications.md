@@ -17,7 +17,7 @@ author_profile: true
 {% endfor %}
 -->
 
-  
+
 
 <h2>2022</h2>
 <ol reversed>
