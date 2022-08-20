@@ -83,7 +83,7 @@
   }
 
   img {
-    max-width: 175px;
+    max-width: 150px;
     border-radius: 50%;
 
     @include breakpoint($large) {
@@ -118,7 +118,7 @@
 }
 .sidebar .author__name {
   font-family: $sans-serif;
-  font-size: $type-size-5;
+  font-size: $type-size-3;
 }
 
 .author__bio {
