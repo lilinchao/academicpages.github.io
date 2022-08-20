@@ -32,6 +32,6 @@ author_profile: true
       <b>Li, Linchao</b> and Yi, Junnan and Xu, Fei and Liu, Hanlin      
 </ol>  
 
-# Conference Publications
+#Conference Publications
 <span style = "color: darkred;">Highly Cited</span>
 
