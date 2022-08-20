@@ -19,7 +19,7 @@ author_profile: true
   
   
   
-## $\color{red} {**2022**} $
+## 📅 $\color{red} {2022} $
 [8]<a href = "https://journals.sagepub.com/doi/abs/10.1177/14759217221094499">Heterogeneous structural responses recovery based on multi-modal deep learning</a>  
       *Structural Health Monitoring*, 2022, Early Access.  
       Du, Bowen and Wu, Liyu and Sun, Leilei and Xu, Fei and Li, **Linchao**\*
@@ -53,7 +53,7 @@ author_profile: true
       Zou, Liang and Shu, Sisi and Lin, Xiang and Lin, Kaisheng and Zhu, Jiasong and **Li, Linchao**\*  
   
   
-## 2021  
+## 📅 $\color{red} {2021} $  
 [1]<a href = "https://www.sciencedirect.com/science/article/abs/pii/S1568494621007699">ATCSpeechNet: A multilingual end-to-end speech recognition framework for air traffic control systems</a>  
       *Applied Soft Computing*, 2021, 112, 107847.  
       Lin, Yi and Yang, Bo and **Li, Linchao** and Guo, Dongyue and Zhang, Jianwei and Chen, Hu and Zhang, Yi
@@ -68,7 +68,7 @@ author_profile: true
       
 [4]<a href = "https://www.hindawi.com/journals/js/2021/9926442/">Analyzing the Impact of Climate Factors on GNSS-Derived Displacements by Combining the Extended Helmert Transformation and XGboost Machine Learning Algorithm</a>  
       *Journal of Sensors*, 2021, 2021.  
-      Liu, Hanlin and Yang, Linqiang and **Li, Linchao**      
+      Liu, Hanlin and Yang, Linqiang and **Li, Linchao**\*      
       
       
 # Conference Publications
