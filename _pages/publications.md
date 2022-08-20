@@ -29,10 +29,9 @@ author_profile: true
 <h2>2022</h2>
 <ul>
   <li>
-    <p><a href="https://arxiv.org/abs/2207.06959">Spatiotemporal Propagation Learning for Network-Wide Flight Delay Prediction</a> <br>
-      <em>arXiv preprint</em> arXiv:2207.06959.<br>
-      <b>Yuankai Wu</b>, Hongyu Yang, Yi Lin, Hong Liu <br>
-      [<a href="https://arxiv.org/abs/2207.06959">Preprint</a>][<a href="https://github.com/Kaimaoge/STPN">Data & Python code</a>] </p>
+    <p><a href="https://journals.sagepub.com/doi/abs/10.1177/14759217221094499">Heterogeneous structural responses recovery based on multi-modal deep learning</a> <br>
+      <em>Structural Health Monitoring</em>Early Access.<br>
+      Du, Bowen and Wu, Liyu and Sun, Leilei and Xu, Fei and <b>Li, Linchao</b><br>      
   </li>
 </ul>
 
