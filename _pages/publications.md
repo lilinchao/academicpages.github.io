@@ -19,7 +19,7 @@ author_profile: true
   
   
   
-## $\color{red} {2022} $
+## $\color{red} {**2022**} $
 [8]<a href = "https://journals.sagepub.com/doi/abs/10.1177/14759217221094499">Heterogeneous structural responses recovery based on multi-modal deep learning</a>  
       *Structural Health Monitoring*, 2022, Early Access.  
       Du, Bowen and Wu, Liyu and Sun, Leilei and Xu, Fei and Li, **Linchao**\*
