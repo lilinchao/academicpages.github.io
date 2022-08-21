@@ -11,4 +11,5 @@ author_profile: true
 
 
 ## Alumni
-Qing Su
+- Qing Su (2029.09-2022.06, Master student, co-supervised with Minghui Liu)  
+Now: Sangfor Technologies Inc.
