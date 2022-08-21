@@ -14,8 +14,12 @@ main:
     url: /talks/    
 
   - title: "People"
-    url: /People/    
+    url: /People/   
     
+  - title:  Membership and Services
+    url: /MS/
+  
+  
 #  - title: "CV"
 #    url: /cv/
     
