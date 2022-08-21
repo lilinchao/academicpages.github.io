@@ -24,3 +24,5 @@ author_profile: true
 ## Alumni
 - Qing Su (2019.09-2022.06, Master student, co-supervised with Minghui Liu)  
 Now: Sangfor Technologies Inc.
+- Ruoyu Zhou (2021.09-2022.06, Master student)  
+Now: Master student of The Hong Kong Polytechnic University.
