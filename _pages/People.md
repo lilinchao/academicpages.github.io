@@ -5,7 +5,7 @@ permalink: /People/
 author_profile: true
 ---
 ## Postdoc
-Hanlin Liu (2019.06-, co-supervised with Prof. Yanliang Du)
+- Hanlin Liu (2019.06-, co-supervised with Prof. Yanliang Du)
 
 ## PhD Students
 
