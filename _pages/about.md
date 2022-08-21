@@ -24,7 +24,7 @@ The intelligent sensing of human, vehicle, infrastrcture, and enviroment and eff
     </tr>
   </thead>
 </table>
-* <span style="color:darkred"> AUG. 2022 </span> 🔥. Congratulation! Ziyi and Pengyu win the second prize in the third National College Students Mathematical Modeling Contest.
+* <span style="color:darkred"> AUG. 2022 </span> 🔥. Congratulation! Ziyi and Pengyu win the second prize, Xinyi and Jiazhen win the third prize in the third National College Students Mathematical Modeling Contest. 
 * <span style="color:darkred"> AUG. 2022 </span> 🔥. Our paper <a href = "https://ieeexplore.ieee.org/document/9860093">“DeepVIP: Deep Learning-Based Vehicle Indoor Positioning Using Smartphones”</a> is accepted by IEEE Transactions on Vehicular Technology. 
 
 
