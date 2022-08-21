@@ -36,7 +36,7 @@ author_profile: true
 
 💵 **Project: To evaluate the service of road based on multi-sources data in connected transportation environment**  
 ● PI: Linchao Li  
-● Distinguished Young Talents in Higher Education of Guangdong 
+● Distinguished Young Talents in Higher Education of Guangdong  
 ● Period: 07/2020-12/2021; Amount: ¥50,000  
 
 💵 **Project: To evaluate the comfort of driving of road based on multi-sources data in connected transportation environment**  
