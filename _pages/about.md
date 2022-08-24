@@ -17,36 +17,15 @@ The intelligent sensing of human, vehicle, infrastrcture, and enviroment and eff
 
 
 ## 📰 News 
-<table style="width:100%">
-  <thead>
-    <tr>
-      <th width="100%">&nbsp;</th>
-    </tr>
-  </thead>
-</table>
 * <span style="color:darkred"> AUG. 2022 </span> 🔥. Congratulation! Ziyi and Pengyu win the second prize, Xinyi and Jiazhen win the third prize in the Third Huashu National College Students Mathematical Modeling Contest. 
 * <span style="color:darkred"> AUG. 2022 </span> 🔥. Our paper <a href = "https://ieeexplore.ieee.org/document/9860093">“DeepVIP: Deep Learning-Based Vehicle Indoor Positioning Using Smartphones”</a> is accepted by IEEE Transactions on Vehicular Technology. 
 
 
 ## 👷 Working Experience
-<table style="width:100%">
-  <thead>
-    <tr>
-      <th width="100%">&nbsp;</th>
-    </tr>
-  </thead>
-</table>
 * 2019.10-now, Assistant Professor, Shenzhen University, Shenzhen, China.  
 
 
 ## 📖 Educations
-<table style="width:100%">
-  <thead>
-    <tr>
-      <th width="100%">&nbsp;</th>
-    </tr>
-  </thead>
-</table>
 * 2017.09-2018.09, Visiting Scholar, University of Wisconsin-Madison, Madison, USA.  
 * 2015.09-2019.06, Ph.D in Transportation Engineering, Southeast University, Nanjing, China.  
 * 2013.09-2015.06, M.S. in Transportation Engineering, Chang'an University, Xi'an, Shannxi.  
@@ -54,13 +33,6 @@ The intelligent sensing of human, vehicle, infrastrcture, and enviroment and eff
 
 
 ## 🎖 Honors and Awards
-<table style="width:100%">
-  <thead>
-    <tr>
-      <th width="100%">&nbsp;</th>
-    </tr>
-  </thead>
-</table>
 * 2021, Temporal and Spatial Big Data Driven Traffic State Identification and Active Control of Highway Network, Speical Prize, China Highway and Transportation Society.  
 * 2021, Research and Application of Technology on Mountainous City Lifeline Disaster Monitoring, Early Warning and Prevention, Silver Medal of National Postdoctoral Innovation and Entrepreneurship Competition, Ministry of Human Resources and Social Security.
 * 2021, The Relation Between Working Conditions, Aberrant Driving Behaviour and Crash Propensity Among Taxi Drivers in China, The First Prize of Shaanxi University Humanities and Social Science Research Outstanding Achievement Award, Education Department of Shaanxi Province
