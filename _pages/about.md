@@ -17,7 +17,8 @@ The intelligent sensing of human, vehicle, infrastrcture, and enviroment and eff
 
 
 ## 📰 News 
-* <span style="color:darkred"> AUG. 2022 </span> 🔥. Congratulation! Ziyi and Pengyu win the second prize, Xinyi and Jiazhen win the third prize in the Third Huashu National College Students Mathematical Modeling Contest. 
+* <span style="color:darkred"> AUG. 2022 </span> 🔥. Congrats to authors for having our paper published. The paper <a href = "https://kns.cnki.net/KXReader/Detail?invoice=kpHF2D4SG2X9txMmPdDirfCXd6acsdTqgYCrm53j%2F2oCeSr4WfyWqTazTg3LGbZhAvbRD0O9xgeWAa8AYAqETJJzVPo8U2y47HWTut8t21xxqYCcDTluCplsxHUtpQwQRkwy4qsiIDDz3kJ14KFtURdBUUHIstoRPuKLgwFmiwI%3D&DBCODE=CAPJ&FileName=CSTD20220815003&TABLEName=capjlast&nonce=6F489129230E4D55BA950FFDE5C45F13&uid=&TIMESTAMP=1661606249923">“Metro tunnel accessorial facilities and lining diseases detection method based on improved Yolov5”</a> (基于改进Yolov5的地铁隧道附属设施与衬砌表观病害检测方法) is accepted by Journal of Railway Science and Engineering (铁道科学与工程学报).   
+* <span style="color:darkred"> AUG. 2022 </span> 🔥. Congratulation! Ziyi and Pengyu win the second prize, Xinyi and Jiazhen win the third prize in the Third Huashu National College Students Mathematical Modeling Contest.  
 * <span style="color:darkred"> AUG. 2022 </span> 🔥. Our paper <a href = "https://ieeexplore.ieee.org/document/9860093">“DeepVIP: Deep Learning-Based Vehicle Indoor Positioning Using Smartphones”</a> is accepted by IEEE Transactions on Vehicular Technology. 
 
 
