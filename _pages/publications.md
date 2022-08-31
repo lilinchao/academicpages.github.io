@@ -140,7 +140,7 @@ author_profile: true
   
   
 ## 📅 $\color{red} {2018} $  
-[7]<a href = "https://www.sciencedirect.com/science/article/pii/S1568494618305404">Travel time prediction for highway network based on the ensemble empirical mode decomposition and random vector functional link network</a>  
+[8]<a href = "https://www.sciencedirect.com/science/article/pii/S1568494618305404">Travel time prediction for highway network based on the ensemble empirical mode decomposition and random vector functional link network</a>  
       *Applied Soft Computing*, 2018, 73, 921-932.  
       **Linchao Li**, Xu Qu, Jian Zhang, Hanchu Li, Bin Ran
 
@@ -148,23 +148,62 @@ author_profile: true
       *Transportation research record*, 2018, 2672(50), 23-34.  
       Gang Zhong, Jian Zhang, **Linchao Li**, Xiaoxuan Chen, Fan Yang, Bin Ran
      
-[7]<a href = "https://ieeexplore.ieee.org/abstract/document/8478191/">Missing value imputation for traffic-related time series data based on a multi-view learning method</a>  
+[6]<a href = "https://ieeexplore.ieee.org/abstract/document/8478191/">Missing value imputation for traffic-related time series data based on a multi-view learning method</a>  
       *IEEE Transactions on Intelligent Transportation Systems*, 2018, 20(8), 2933-2943.  
       **Linchao Li**, Jian Zhang, Yonggang Wang, Bin Ran
 
-[7]<a href = "https://link.springer.com/article/10.1007/s12205-017-1016-9">Short-to-medium term passenger flow forecasting for metro stations using a hybrid model</a> 
+[5]<a href = "https://link.springer.com/article/10.1007/s12205-017-1016-9">Short-to-medium term passenger flow forecasting for metro stations using a hybrid model</a>   
       *KSCE Journal of Civil Engineering*, 2018, 22(5), 1937-1945.  
       **Linchao Li**, Yonggang Wang, Gang Zhong, Jian Zhang, Bin Ran
 
-[7]<a href = "https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/iet-its.2017.0273">Robust and flexible strategy for missing data imputation in intelligent transportation system</a> 
+[4]<a href = "https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/iet-its.2017.0273">Robust and flexible strategy for missing data imputation in intelligent transportation system</a>   
       *IET Intelligent Transport Systems*, 2018, 12(2), 151-157.  
       **Linchao Li**, Jian Zhang, Fan Yang, Bin Ran
 
-[7]<a href = "https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/iet-its.2017.0273">Missing value imputation method for heterogeneous traffic flow data based on feature fusion(基于特征级融合的高速公路异质交通流数据修复方法)</a> 
+[3]<a href = "https://ietresearch.onlinelibrary.wiley.com/doi/abs/10.1049/iet-its.2017.0273">Missing value imputation method for heterogeneous traffic flow data based on feature fusion(基于特征级融合的高速公路异质交通流数据修复方法)</a>   
       *Journal of Southeast University (Natural Science Edition)(东南大学学报(自然科学版))*, 2018, 48(5), 972-978.  
-      李林超,曲栩,张健,王永岗,李汉初,冉斌
+      **Linchao Li**, Xu Qu, Jian Zhang, Yonggang Wang, Hannchu Li, Bin Ran (李林超,曲栩,张健,王永岗,李汉初,冉斌)
 
+[2]<a href = "https://www.hindawi.com/journals/jat/2018/3791820/">An improved single-lane cellular automaton model considering driver’s radical feature</a>   
+      *Journal of Advanced Transportation*, 2018.  
+      Xu Qu, Mofeng Yang, Fan Yang, Bin Ran, **Linchao Li**
 
+[1]<a href = "https://www.hindawi.com/journals/jat/2018/3791820/">An improved single-lane cellular automaton model considering driver’s radical feature</a>   
+      *Journal of Advanced Transportation*, 2018.  
+      Xu Qu, Mofeng Yang, Fan Yang, Bin Ran, **Linchao Li**
+  
+  
+## 📅 $\color{red} {2017} $  
+[3]<a href = "http://jase.tku.edu.tw/articles/jase-201712-20-4-01">Traffic incident detection based on extreme machine learning</a>  
+      *Journal of Applied Science and Engineering*, 2017, 20(4), 409-416.  
+      **Linchao Li**, Xu Qu, Jian Zhang, Bin Ran
 
+[2]<a href = "https://hrcak.srce.hr/clanak/275544">Traffic speed prediction for highway operations based on a symbolic regression algorithm</a>  
+      *Promet-Traffic&Transportation*, 2017, 29(4), 433-441.  
+      **Linchao Li**, Tomislav Fratrović, Zhang Jian, Ran Bin
+
+[1]<a href = "http://journal.seu.edu.cn/oa/DArticle.aspx?id=201705030">Traffic volume prediction based on support vector regression with switch kernel functions(基于核函数切换和支持向量回归的交通量短时预测模型)</a>   
+      *Journal of Southeast University (Natural Science Edition)(东南大学学报(自然科学版))*, 2017, 47(5), 1032-1036.  
+      **Linchao Li**, Jian Zhang, Fan Yang, Bin Ran (李林超,张健,杨帆,冉斌)
+  
+  
+## 📅 $\color{red} {2016} $  
+[3]<a href = "https://onlinelibrary.wiley.com/doi/abs/10.1002/atr.1443">Short‐term highway traffic flow prediction based on a hybrid strategy considering temporal–spatial information</a>  
+      *Journal of Advanced Transportation*, 2016, 50(8), 2029-2040.  
+      **Linchao Li**, Shanglu He, Jian Zhang, Bin Ran      
+
+[2]<a href = "https://hrcak.srce.hr/clanak/244270">Analysis of factors influencing the vehicle damage level in fatal truck-related accidents and differences in rural and urban areas</a>  
+      *Promet-Traffic&Transportation*, 2016, 28(4), 331-340.  
+      **Linchao Li**, Tomislav Fratrović   
+      
+[1]<a href = "http://www.tseit.org.cn/CN/Y2016/V16/I5/165">Online Short-term Traffic Flow Prediction Considering the Impact of Temporal-spatial Features(时空因素影响下在线短时交通量预测)</a>   
+      *Journal of Transportation System Engineering and Information Technology (交通运输系统工程与信息)*, 2016, 16(5), 165-171.  
+      **Linchao Li**, Shanglu He, Jian Zhang (李林超,何尚璐,张健)      
+
+   
+## 📅 $\color{red} {2015} $  
+[1]<a href = "https://www.tandfonline.com/doi/abs/10.1179/1942787514Y.0000000019">Professional drivers’ views on risky driving behaviors and accident liability: a questionnaire survey in Xining, China</a>  
+      *Transportation letters*, 2015, 6(3), 126-135.  
+      Yonggang Wang, **Linchao Li**, Lei Feng, Hui Peng 
       
 # Conference Publications
