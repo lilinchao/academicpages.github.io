@@ -7,7 +7,8 @@ author_profile: true
 
 # Professional Services
 ## Editor
-- Guest Editor: Special Issue on Big Data in Public Transport Operation, Journal of Advanced Transportation.
+- Associate Editor: <a href = "http://jase.tku.edu.tw/">“Journal of Applied Science and Engineering ”</a>.
+- Guest Editor: <a href = "https://www.hindawi.com/journals/jat/si/931453/">“Special Issue on Big Data in Public Transport Operation, Journal of Advanced Transportation”</a>. 
 - Guest Editor: Special Issue on Intelligent Transportation Infrastructure Sensing and Maintenance, Journal of Railway Science and Engineering.
 
 ## Reviewer (peer-reviewed journals)
