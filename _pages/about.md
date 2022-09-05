@@ -17,6 +17,7 @@ The intelligent sensing of human, vehicle, infrastrcture, and enviroment and eff
 
 
 ## 📰 News 
+* <span style="color:darkred"> SEP. 2022 </span> 🔥. I was invited to join the editorial board as an associate editor of <a href = "http://jase.tku.edu.tw/">“Journal of Applied Science and Engineering ”</a>
 * <span style="color:darkred"> AUG. 2022 </span> 🔥. Congrats to authors for having our paper published. The paper <a href = "https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CAPJ&dbname=CAPJLAST&filename=CSTD20220815003&uniplatform=NZKPT&v=X1L_S5G8AlZJTcH1q_QbIt12mM9iSTNvgKC_MTScfrsovW7KsJMxU0XL40JEuYNU">“Metro tunnel accessorial facilities and lining diseases detection method based on improved Yolov5”</a> (基于改进Yolov5的地铁隧道附属设施与衬砌表观病害检测方法) is accepted by Journal of Railway Science and Engineering (铁道科学与工程学报).   
 * <span style="color:darkred"> AUG. 2022 </span> 🔥. Congratulation! Ziyi and Pengyu win the second prize, Xinyi and Jiazhen win the third prize in the Third Huashu National College Students Mathematical Modeling Contest.  
 * <span style="color:darkred"> AUG. 2022 </span> 🔥. Our paper <a href = "https://ieeexplore.ieee.org/document/9860093">“DeepVIP: Deep Learning-Based Vehicle Indoor Positioning Using Smartphones”</a> is accepted by IEEE Transactions on Vehicular Technology. 
