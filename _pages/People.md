@@ -10,6 +10,12 @@ author_profile: true
 ## PhD Students
 
 ## Master Students
+- Xiang Lin (2022.09-)
+- Jiabao Xing (2022.09-)
+- Liangjian Zhong (2022.09-)
+- Puxuan Wei (2022.09-)
+- Chongyan Li (2022.09-)
+- Xiaodong Cui (2022.09-)
 - Jiazhen Liu (2021.09-)
 - Minghao Tang (2021.09-)
 - Ziyi Liao (2021.09-)
