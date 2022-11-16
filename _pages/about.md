@@ -17,6 +17,7 @@ The intelligent sensing of human, vehicle, infrastrcture, and enviroment and eff
 
 
 ## 📰 News 
+* <span style="color:darkred"> NOV. 2022 </span> 🔥. Congrats to Ziyi. Our paper <a href = "https://www.sciencedirect.com/science/article/pii/S0378437122008573?via%3Dihub">“A temporal and spatial prediction method for urban pipeline network based on deep learning”</a> is accepted by Physica A: Statistical Mechanics and its Applications.
 * <span style="color:darkred"> SEP. 2022 </span> 🔥. Six students join our group. Welcome, Xiang Lin, Jiabao, Liangjian, Puxuan, Chongyan, Xiaodong!
 * <span style="color:darkred"> SEP. 2022 </span> 🔥. Our group got an National Natural Science Foundation of China (Grant No.52202402). Congrats, Team!
 * <span style="color:darkred"> SEP. 2022 </span> 🔥. I was invited to join the editorial board as an associate editor of <a href = "http://jase.tku.edu.tw/">“Journal of Applied Science and Engineering ”</a>.
