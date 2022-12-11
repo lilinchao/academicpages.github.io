@@ -28,7 +28,7 @@ author_profile: true
 
 
 ## Alumni
-- Hanlin Liu (2019.06-2022.09, co-supervised with Prof. Yanliang Du)
+- Hanlin Liu (2019.06-2022.09, co-supervised with Prof. Yanliang Du)  
 Now: Guizhou University, Assistant Professor.
 - Qing Su (2019.09-2022.06, Master student, co-supervised with Minghui Liu)  
 Now: Sangfor Technologies Inc.
